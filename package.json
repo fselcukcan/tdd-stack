@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "jest --watchAll --verbose --coverage",
+    "test": "jest --verbose",
     "test:watch": "jest --watchAll --verbose",
     "test:coverage": "jest --coverage"
   },
